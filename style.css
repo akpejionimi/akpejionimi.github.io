@@ -10,12 +10,12 @@
     background-image: url("divi-full.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
-  
+    width: 100%;
 }
 .con-navbar{
     background-color: white;
     display: flex;
+    color: darkred;
 }
 .navbar-logo{
 padding-top:10px;
